@@ -1,7 +1,6 @@
 # DSA-CPP
 
 A well-organized repository of my Data Structures & Algorithms practice in C++.
-I am preparing for GSoC 2026 and software engineering placements.
 
 ## Topics Covered
 - Arrays
